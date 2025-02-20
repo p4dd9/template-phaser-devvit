@@ -1,14 +1,14 @@
-# Phaser x Devvit App Template
+# Devvit x Phaser Template
 
-This is a Phaser 3 project template to create a Devvit Webview App that uses Vite for bundling. It supports hot-reloading for quick development workflow and includes scripts to create production-ready builds to publish on Reddit.
+This is a Devvit project template to create a Webview App with Phaser that uses Vite for bundling. It supports hot-reloading for quick development workflow and includes scripts to create production-ready builds to publish on Reddit. Live-Demo: https://www.reddit.com/r/HammertimeStudio/comments/1itxfg9/my_phaser_devvit_app/.
 
 ### Versions
 
 This template has been updated for:
 
+- [Devvit 0.17.0](https://www.npmjs.com/package/devvit)
 - [Phaser 3.88.2](https://www.npmjs.com/package/phaser)
 - [Vite 6.1.0](https://github.com/vitejs/vite)
-- [Devvit 0.17.0](https://www.npmjs.com/package/devvit)
 - [NodeJS 22.12.0](https://nodejs.org/en/blog/release/v22.12.0)
 
 ## Before you begin
@@ -102,8 +102,10 @@ The `webroot-plugin` is a tiny plugin that makes sure the new webroot version is
 
 ## Credits
 
-If this template helped you kickstart your own Devvit Webview App, feel free to reach out to me on Discord (#Heideltraut) and share your project on [Reddit](https://www.reddit.com/r/HammertimeStudio/). I'm excited to see what you're building!
+If this template helped you kickstart your own Devvit Webview App, yeeey! Feel free to reach out to me on Discord (Heideltraut) and share your project on [Reddit](https://www.reddit.com/r/HammertimeStudio/). I'm excited to see what you're building!
 
 The awesome exmpliary assets from this repository are from [Kenney.nl](https://kenney.nl/). Check it out if you are looking for more.
+
+I built this template in my freetime, if you do like working with this template, please give it ⭐.
 
 This template is created by me [Hammertime Studio](https://hammertime.studio) 🔨
