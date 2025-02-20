@@ -1,6 +1,10 @@
 # Devvit x Phaser Template
 
-This is a Devvit project template to create a Webview App with Phaser that uses Vite for bundling. It supports hot-reloading for quick development workflow and includes scripts to create production-ready builds to publish on Reddit. Live-Demo: https://www.reddit.com/r/HammertimeStudio/comments/1itxfg9/my_phaser_devvit_app/.
+This is a Devvit project template to create a Webview App with Phaser that uses Vite for bundling. It supports hot-reloading for quick development workflow and includes scripts to create production-ready builds to publish on Reddit.
+
+Live-Demo: https://www.reddit.com/r/HammertimeStudio/comments/1itxfg9/my_phaser_devvit_app/.
+
+![Cute Cube shaped Animal Heads on blue background, as a Splashscreen for a Reddit App Post](./assets/splash_preview.png 'Splashscreen Preview')
 
 ### Versions
 
