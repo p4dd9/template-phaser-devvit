@@ -1,5 +1,4 @@
 import { Devvit, useWebView } from '@devvit/public-api'
-import webroot from '../webroot.json'
 import './app/actions/createPost'
 import { createPost } from './app/actions/createPost'
 import { SplashScreen } from './app/components/SplashScreen'
@@ -32,7 +31,7 @@ Devvit.addCustomPostType({
 		//	guidelanes to be approved in the future. https://developers.reddit.com/docs/webviews
 		const { mount, postMessage } = useWebView({
 			//	The url property is the path to the index.html file that is located in the webroot/ folder.
-			url: `index.${webroot.version}.html`,
+			url: `index.html`,
 
 			//	The onMessage function is a callback that is called when the WebView sends a message.
 			//	For example, the Players score is sent to the WebView when the game is over.

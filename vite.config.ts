@@ -1,6 +1,5 @@
 import { resolve } from 'path'
 import { defineConfig } from 'vite'
-import { webrootHtmlPlugin } from './webroot-plugin'
 
 export default defineConfig({
 	root: resolve(__dirname, './src/game/'),
@@ -28,5 +27,4 @@ export default defineConfig({
 			},
 		},
 	},
-	plugins: [webrootHtmlPlugin],
 })

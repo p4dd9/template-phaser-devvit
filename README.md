@@ -100,10 +100,6 @@ Once you see all your files are transpiled and saved to the `webroot` directory,
 
 If you want to customize your build, you can modify the `vite.config.ts` file. By default the config is configured to work with the `webroot` directory as the build target folder and the `src/game` folder as the webview project directory
 
-### webroot-plugin
-
-The `webroot-plugin` is a tiny plugin that makes sure the new webroot version is used by the latest version of your Devvit App. If you wish to work without it, remove it from the `vite.config.ts` and change the `url` attribute in the `useWebViewHook` inside the `main.tsx` to `index.html`
-
 ## Credits
 
 If this template helped you kickstart your own Devvit Webview App, yeeey! Feel free to reach out to me on Discord (Heideltraut) and share your project on [Reddit](https://www.reddit.com/r/HammertimeStudio/). I'm excited to see what you're building!
