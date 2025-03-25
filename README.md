@@ -53,7 +53,7 @@ To test your App is working properly with the template, run `devvit upload` to u
 | Command         | Description                                       |
 | --------------- | ------------------------------------------------- |
 | `npm install`   | Install project dependencies                      |
-| `npm run vite`  | Launch local developmentt Server                  |
+| `npm run vite`  | Launch local development Server                   |
 | `npm run build` | Create a production build in the `webroot` folder |
 | `npm run dev`   | Start developing in watch mode                    |
 
