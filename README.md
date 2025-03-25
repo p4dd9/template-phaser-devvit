@@ -10,7 +10,7 @@ Live-Demo: https://www.reddit.com/r/HammertimeStudio/comments/1itxfg9/my_phaser_
 
 This template has been updated for:
 
-- [Devvit 0.17.0](https://www.npmjs.com/package/devvit)
+- [Devvit 0.11.11](https://www.npmjs.com/package/devvit)
 - [Phaser 3.88.2](https://www.npmjs.com/package/phaser)
 - [Vite 6.1.0](https://github.com/vitejs/vite)
 - [NodeJS 22.12.0](https://nodejs.org/en/blog/release/v22.12.0)
