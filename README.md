@@ -43,7 +43,7 @@ Run `devvit --version` to verify your Devvit CLI is setup correct. The output lo
 
 ```
 $ devvit --version
-@devvit/cli/0.11.7 win32-x64 node-v22.12.0
+@devvit/cli/0.11.11 win32-x64 node-v22.12.0
 ```
 
 To test your App is working properly with the template, run `devvit upload` to upload your current version. Hooray! If that works, you are ready to write code.
@@ -102,10 +102,8 @@ If you want to customize your build, you can modify the `vite.config.ts` file. B
 
 ## Credits
 
-If this template helped you kickstart your own Devvit Webview App, yeeey! Feel free to reach out to me on Discord (Heideltraut) and share your project on [Reddit](https://www.reddit.com/r/HammertimeStudio/). I'm excited to see what you're building!
-
 The awesome exmpliary assets from this repository are from [Kenney.nl](https://kenney.nl/). Check it out if you are looking for more.
 
-I built this template in my freetime, if you do like working with this template, please give it ⭐.
+If you do like working with this template, please give it ⭐.
 
 This template is created by me [Hammertime Studio](https://hammertime.studio) 🔨
