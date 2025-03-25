@@ -19,5 +19,10 @@
 		"dev": "vite build --watch",
 		"build": "vite build --config ./vite.config.ts",
 		"upload": "devvit upload"
+	},
+	"devvit": {
+		"playtest": {
+			"debounceConfigMs": 2000
+		}
 	}
 }
